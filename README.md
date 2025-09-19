@@ -19,7 +19,7 @@ I am a results-driven Full-Stack Developer with a passion for building robust an
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 💬 Ask me about **Python, C#, .NET, JavaScript, React, and Machine Learning**.
 - 📫 How to reach me: **[emonmohashin01@gmail.com](mailto:emonmohashin01@gmail.com)**
-- 📄 Know about my experiences: **[Add Link to Your Resume/Portfolio Here]**
+- 📄 Know about my experiences: 
 
 ---
 
@@ -32,10 +32,10 @@ I am a results-driven Full-Stack Developer with a passion for building robust an
   </a>
 </p>
 
-#### Backend:
+#### Backend & Databases:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,firebase" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,firebase,mysql,mongodb,sqlite" />
   </a>
 </p>
 

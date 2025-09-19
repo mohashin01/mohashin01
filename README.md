@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me:
 
-I am a results-driven Full-Stack Developer with a passion for building robust and user-friendly web applications. I enjoy solving complex problems and turning ideas into reality through code. I have experience working with both frontend and backend technologies and I'm always eager to learn and adapt to new stacks.
+I am a results-driven Full-Stack Developer with a passion for building robust and user-friendly web applications. I enjoy solving complex problems and turning ideas into reality through code. I have experience working with both frontend and backend technologies, and I'm always eager to learn and adapt to new stacks.
 
 - 🌱 I’m currently diving deeper into **Cloud Services (Firebase, AWS)** and **.NET Core**.
 - 👯 I’m looking to collaborate on innovative open-source projects.
-- 💬 Ask me about **Python, C#, .NET, JavaScript, React, and Firebase**.
+- 💬 Ask me about **Python, C#, .NET, JavaScript, React, and Machine Learning**.
 - 📫 How to reach me: **[emonmohashin01@gmail.com](mailto:emonmohashin01@gmail.com)**
 - 📄 Know about my experiences: **[Add Link to Your Resume/Portfolio Here]**
 
@@ -25,9 +25,24 @@ I am a results-driven Full-Stack Developer with a passion for building robust an
 
 ### 🛠️ My Tech Stack:
 
+#### Frontend:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,javascript,react,firebase,html,css,tailwind,bootstrap,git,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+#### Backend:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,firebase" />
+  </a>
+</p>
+
+#### Tools & Platforms:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,sklearn,googlecolab" />
   </a>
 </p>
 

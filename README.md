@@ -32,10 +32,17 @@ I am a results-driven Full-Stack Developer with a passion for building robust an
   </a>
 </p>
 
-#### Backend & Databases:
+#### Backend:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,firebase,mysql,mongodb,sqlite" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,firebase" />
+  </a>
+</p>
+
+#### Databases:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
   </a>
 </p>
 
@@ -61,5 +68,5 @@ I am a results-driven Full-Stack Developer with a passion for building robust an
 ### 🤝 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
+  <a href="https://facebook.com/your-facebook-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-facebook-username" height="30" width="40" /></a>
 </p>
